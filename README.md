@@ -9,6 +9,7 @@ http://bbeunbin.mycafe24.com/
 http://bbeunbin.mycafe24.com/mobile/
 반응형 웹
 http://bbeunbin.mycafe24.com/media/
+
 PC WEB
 기존 네스트호텔 기업 웹사이트를 리뉴얼하여 제작한 고정형 홈페이지입니다.
 기존 웹 사이트는 xhtml 버전으로 제작되었고 표준 접근성을 준수하지 않은 태그 사용, W3C 검사시 에러, 경고가 다수 발생되어
@@ -28,6 +29,7 @@ W3C 검사 만점 완료
 크로스브라우징 (크롬, 사파리, 엣지, 파이어폭스, 오페라) 테스트 완료
 시멘틱 마크업, 아웃라인 정돈
 img tag(alt), a tag(title), table(scope, thead, tbody) 등 태그 속성을 활용해 접근성 향상
+
 🖥️ UIUX
 기업이 추구하는 분위기에 맞게 메인컬러, 포인트컬러, 레이아웃 구성
 기존 원하는 정보를 바로 찾기 어려운 점을 개선하여 UI 구현
